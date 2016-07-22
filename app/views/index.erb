@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Predict-A-Rating!</title>
+  <!-- links to CSS stylesheet in the public directory -->
+  <link rel="stylesheet" href="/css/index.css" >
+</head>
+<body> 
+
+<div class="box">
+
+ <div class= "title">
+    <h1>
+      Predict-A-Rating!
+    </h1>
+  </div>
+
+  <div class="homepage">
+     <form method="POST" action="/status">
+       Current Rating: <input type="text" name="user_rating">
+       Games Won: <input type="text" name="games_won">
+       Games Lost: <input type="text" name="games_lost">
+       Opponents' Rating: <input type="text" name="opponent_score" placeholder= "Ex. 1000, 974, 1178...">
+       
+       <input type="submit" value="Find New Rating!">
+     </form>
+  </div>
+  
+ </div>
+
+</body>
+</html>
+

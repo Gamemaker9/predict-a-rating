@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url(https://images.chesscomfiles.com/proxy/codeforyou.info/wp-content/uploads/2014/11/chess-board-rules-chess_00418821jpg-awesome/http/e5a65322fa.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.title {
+    color: black;
+    text-align: center;
+    padding-top: 0%;
+    font-size:3vmax;
+}
+
+.homepage {
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.box {
+    background-color: white;
+    padding-top: 0;
+    opacity: 0.7;
+}
