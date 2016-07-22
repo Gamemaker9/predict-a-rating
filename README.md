@@ -1,8 +1,13 @@
-# coderdotnew_sinatra_template
-For this template for any Sinatra applications you will build! Remember, the file structure is going to remain nearly identical, though you may want to change the `model` file names and the `view` file names to better fit the specifications of your application functionality.
+# Predict-a-Rating App
 
-Have fun building and use this template as often as you wish!  
+#### TO UPDATE ON GITHUB
+- Enter each command line by line in Terminal
+1. git status (THIS JUST SHOWS WHAT YOU CHANGED)
+2. git add .
+2. git commit -m "YOUR MESSAGE HERE"
+3. git push
 
-##### Last, but not least... shout out to the real Sinatra!  
-![1](http://i.imgur.com/sajVKhr.gif)    
-##### #franksinatra #og #sinatra
+
+#### TO UPDATE ON HEROKU
+- Enter the following command into the Terminal
+1. git push heroku master
